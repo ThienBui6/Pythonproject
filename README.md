@@ -1,10 +1,24 @@
 # Pythonproject
 
-this is my current project I am working on. there are three branchs in this make sure you can the branch when you want to look throw them are perfectively :
+# 🛰 Satellite Orbit Tracker with Collision Risk Analysis  
+
+## 🌟 Overview
+This project tracks a real satellite's orbit using TLE data and simulates nearby space debris to predict collision probability using Monte Carlo simulations.
+
+## 🔧 Tools & Libraries  
+- Python (Pandas, NumPy, SciPy)  
+- Poliastro for orbital mechanics  
+- Matplotlib for visualization  
+
+## 📁 Data Sources  
+- CelesTrak TLE Data (Satellite)
+- Synthetic Debris Dataset (Randomly generated)
+
+###this is my current project I am working on. There are three branches in this make sure you can find the branch when you want to look through them correctly.
 
 1. data
 2. src
-3. backup code in the futue
+3. backup code in the future
 
 
 **Note: poliastro requires a number of Python packages:
