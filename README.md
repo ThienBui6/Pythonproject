@@ -1,4 +1,5 @@
 # Pythonproject
+**** Please change the branches on the top to open data, src, and backup code folders
 
 # 🛰 Satellite Orbit Tracker with Collision Risk Analysis  
 
@@ -18,7 +19,7 @@ This project tracks a real satellite's orbit using TLE data and simulates nearby
 
 1. data
 2. src
-3. backup code in the future
+3. Backup code in the future
 
 
 **Note: poliastro requires a number of Python packages:
