@@ -16,4 +16,4 @@ debris_growth_data = pd.DataFrame({
 
 debris_growth_data.to_csv('data/debris_growth_data.csv', index=False)
 
-print("✅ Debris growth dataset generated: debris_growth_data.csv")
+print("Debris growth dataset generated: debris_growth_data.csv")
