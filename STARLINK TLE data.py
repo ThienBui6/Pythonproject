@@ -21,4 +21,4 @@ debris_data = {
 pd.DataFrame(satellite_data).to_csv('data/satellite_tle.csv', index=False)
 pd.DataFrame(debris_data).to_csv('data/debris_data.csv', index=False)
 
-print("✅ Datasets generated: satellite_tle.csv and debris_data.csv")
+print(" Datasets generated: satellite_tle.csv and debris_data.csv")
