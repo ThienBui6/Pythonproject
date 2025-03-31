@@ -20,6 +20,10 @@ This project tracks a real satellite's orbit using TLE data and simulates nearby
 1. data
 2. src
 3. Backup code in the future
+   -- Python (Pandas, NumPy, SciPy)  
+   -- SQLite for data storage  
+   -- Poliastro for orbital mechanics  
+   -- Matplotlib for visualization 
 
 
 **Note: poliastro requires a number of Python packages:
