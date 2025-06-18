@@ -17,7 +17,7 @@ This project tracks a real satellite's orbit using TLE data and simulates nearby
 
 ###this is my current project I am working on. There are three branches in this make sure you can find the branch when you want to look through them correctly.
 
-1.TLE data collection.py or TLE collection.py
+1. TLE data collection.py or TLE collection.py
 
 2. debris.py or STARLINK TLE data.py
    
