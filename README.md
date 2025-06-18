@@ -17,9 +17,10 @@ This project tracks a real satellite's orbit using TLE data and simulates nearby
 
 ###this is my current project I am working on. There are three branches in this make sure you can find the branch when you want to look through them correctly.
 
-1. data
-2. src
-3. Backup code in the future
+1.TLE data collection.py or TLE collection.py
+2. debris.py or STARLINK TLE data.py
+3. Orbit Tracker & Collision.py
+4. Sustainability.py
 
 
 **Note: poliastro requires a number of Python packages:
